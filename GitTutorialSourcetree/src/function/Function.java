@@ -7,4 +7,9 @@ public class Function {
 	}
 	
 	// Hallo, ich bin Mitglied_2.
+	
+	//Mitglied_1:
+	public String sayHelloToMitglied_2() {
+		return "Hello Mitgleid_2";
+	}
 }
